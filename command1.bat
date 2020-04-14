@@ -1,0 +1,1 @@
+node fb.js fb_credentials.json "dua lipa" 50
